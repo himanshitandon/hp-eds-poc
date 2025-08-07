@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/himanshitandon/hp-eds-poc/
+    type: markup
+
+folders:
+  /products/: /products/default
