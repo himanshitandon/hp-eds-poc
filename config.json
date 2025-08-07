@@ -1,0 +1,39 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://master-7rqtwti-o3fhqqdtq22og.us-4.magentosite.cloud/graphql",
+      "commerce-endpoint": "https://master-7rqtwti-o3fhqqdtq22og.us-4.magentosite.cloud/graphql",
+      "headers": {
+        "all": {
+          "Store": "default"
+        },
+        "cs": {
+          "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+          "Magento-Store-Code": "dxp_store",
+          "Magento-Store-View-Code": "dxp_store_view",
+          "Magento-Website-Code": "dxp_ecom_store"
+        }
+      },
+      "analytics": {
+        "base-currency-code": "USD",
+        "environment": "Testing",
+        "environment-id": "master-7rqtwti-o3fhqqdtq22og.us-4.magentosite.cloud",
+        "store-code": "dxp_store",
+        "store-id": "dxp_store",
+        "store-name": "DXP Store view",
+        "store-url": "http://master-7rqtwti-o3fhqqdtq22og.us-4.magentosite.cloud/",
+        "store-view-code": "dxp_store_view",
+        "store-view-id": "dxp_store_view",
+        "store-view-name": "DXP Store view",
+        "website-code": "dxp_ecom_store",
+        "website-id": "dxp_ecom_store",
+        "website-name": "DXP ecom store"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "11"
+        }
+      }
+    }
+  }
+}
